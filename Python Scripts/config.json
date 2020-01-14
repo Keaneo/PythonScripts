@@ -1,0 +1,5 @@
+{
+    "framerate": 25,
+    "menuCascade": ["File", "Edit", "Settings"],
+    "cameraId": 0
+}
