@@ -1,5 +1,16 @@
 {
-    "framerate": 25,
-    "menuCascade": ["File", "Edit", "Settings"],
-    "cameraId": 0
+    "menuCascade": [
+        "File",
+        "Edit",
+        "Settings"
+    ],
+    "cameraId": 0,
+    "showCam": true,
+    "camRes": [
+        640,
+        480
+    ],
+    "delay": 20,
+    "followHead": 0,
+    "iconPath": "imgs/icon.ico"
 }
